@@ -8,3 +8,4 @@ scikit-image
 ipywidgets
 pyvista
 scikit-learn
+seaborn
