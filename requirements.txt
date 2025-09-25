@@ -9,4 +9,4 @@ ipywidgets
 pyvista
 scikit-learn
 seaborn
-cv2
+opencv-python
